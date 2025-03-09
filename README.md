@@ -9,7 +9,7 @@ Consider Subscribing to my YouTube Channel for updates on the Grid View: https:/
 
 ### Installation with `hacs`
 
-1. Make sure the [HACS](https://github.com/custom-components/hacs) component is installed and working.
+1. Make sure the [HACS]([https://github.com/custom-components/hacs](https://github.com/yoely0966/Custom-Grid-View)) component is installed and working.
 2. Add https://github.com/zsarnett/Custom-Grid-View as a custom repository
 3. Add the configuration to your `ui-lovelace.yaml`
 
@@ -23,7 +23,7 @@ Consider Subscribing to my YouTube Channel for updates on the Grid View: https:/
 
 ### Manual Installation
 
-1. Download the `grid-view.js` file [Custom Drag and Drop Grid View](https://github.com/zsarnett/Custom-Grid-View/releases)
+1. Download the `grid-view.js` file [Custom Drag and Drop Grid View]([[https://github.com/zsarnett/Custom-Grid-View/releases](https://github.com/yoely0966/Custom-Grid-View)](https://github.com/yoely0966/Custom-Grid-View))
 2. Place the file in your `config/www` folder
 3. Add a resource to your Lovelace Dashboard
 
